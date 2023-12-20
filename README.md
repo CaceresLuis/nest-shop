@@ -13,12 +13,12 @@
 ```
 docker-compose up -d
 ```
-6. ejecutar SSED
-```
-http://localhost:3000/api/seed
-```
-
-7. correr el proyeco 
+6. correr el proyeco 
 ```
 yarn start:dev
+```
+
+7. ejecutar SSED
+```
+http://localhost:3000/api/seed
 ```
